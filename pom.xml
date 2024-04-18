@@ -81,7 +81,7 @@
 
         <spring.boot.version>2.7.18</spring.boot.version>
 
-        <javassist.version>3.29.2-GA</javassist.version>
+        <javassist.version>3.30.2-GA</javassist.version>
 
         <fastjson.version>1.2.83</fastjson.version>
         <h2.version>2.1.212</h2.version>
